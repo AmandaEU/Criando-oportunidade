@@ -1,5 +1,5 @@
 body {
-    background-color: #3da08b;
+    background-color: #24afb4;
     color: white;
     font-family: "Times New Roman", sans-serif;
     display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    background-color: #20a89d;
+    background-color: #000000;
     color: white;
     font-family: "Times New Roman", sans-serif;
 }
